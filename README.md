@@ -1,6 +1,10 @@
-# secondflutter
+# Ecommerce App Homepage Design
 
-A new Flutter project.
+1. Drawer
+2. Bottom Navigation Bar
+3. GridView
+4. CardView
+5. Horizontal Scrolling
 
 ## Getting Started
 
